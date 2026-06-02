@@ -147,12 +147,6 @@ function Umrechner() {
   const swatchColor = /^[0-9a-fA-F]{6}$/.test(hex) ? "#"+hex : null;
 
   // ── Shared JSX sections (same state, reused in card + overlay) ──
-  const unitSel = (cls) => (
-    <select value={realUnit} onChange={onRealUnit} className={cls}>
-      {UNITS.map(u => <option key={u} value={u}>{u}</option>)}
-    </select>
-  );
-
   const winkelSection = (
     <div className="dash-calc-section">
       <p className="dash-label">Winkel / Prozent</p>
