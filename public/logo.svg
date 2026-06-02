@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1959" height="354" viewBox="0 0 1959 354">
+  <defs>
+    <clipPath id="clip-Zeichenfläche_3">
+      <rect width="1959" height="354"/>
+    </clipPath>
+  </defs>
+  <g id="Zeichenfläche_3" data-name="Zeichenfläche – 3" clip-path="url(#clip-Zeichenfläche_3)">
+    <rect width="1959" height="354" fill="#fff"/>
+    <text id="A" transform="translate(249.942 278)" font-size="350" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="-119.875" y="0">A</tspan></text>
+    <path id="Polygon_4" data-name="Polygon 4" d="M72.676,0l72.676,203.494H0Z" transform="translate(178.623 85.583)" fill="#fff"/>
+    <text id="derArchistent" transform="translate(942 233.5)" fill="#727272" font-size="150" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-472.275" y="0">der</tspan><tspan y="0" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700" fill="#000">Archistent</tspan></text>
+    <line id="Linie_37" data-name="Linie 37" x2="245.485" transform="translate(127.257 310.095)" fill="none" stroke="#000" stroke-width="15"/>
+    <text id="beta" transform="translate(1548.5 295)" fill="#ff5800" font-size="75" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="-79.162" y="0">beta</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="clip-Zeichenflaeche_1">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-Zeichenflaeche_1)">
+    <rect width="500" height="500" fill="#fff"/>
+    <text transform="translate(249.942 368.801)" font-size="350" font-family="HelveticaNeue-Bold, Helvetica Neue, Arial, sans-serif" font-weight="700"><tspan x="-119.875" y="0">A</tspan></text>
+    <path d="M72.676,0l72.676,203.494H0Z" transform="translate(178.623 176.383)" fill="#fff"/>
+    <line x2="245.485" transform="translate(127.257 400.896)" fill="none" stroke="#000" stroke-width="15"/>
+  </g>
+</svg>
