@@ -114,7 +114,7 @@ function Kontakt() {
 
             <div className="kontakt-info-block">
               <span className="kontakt-info-label">Adresse</span>
-              <p>Musterstraße 12<br />80333 München<br />Deutschland</p>
+              <p>Tobias Hauer<br />83352 Altenmarkt</p>
             </div>
 
             <div className="kontakt-info-block">
@@ -124,7 +124,7 @@ function Kontakt() {
 
             <div className="kontakt-info-block">
               <span className="kontakt-info-label">Telefon</span>
-              <a href="tel:+4989123456789">+49 89 123 456 789</a>
+              <a href="tel:+436763156909">+43 676 315 6909</a>
             </div>
 
             <div className="kontakt-info-block">
