@@ -1769,6 +1769,12 @@ body {
   border-color: #f5c4a0;
 }
 
+.wettb-tag--gebaeude {
+  background: #f0f5ff;
+  color: #4a6fa5;
+  border-color: #c0d0e8;
+}
+
 /* Deadline badges */
 .wettb-badge {
   font-size: 0.7rem;
