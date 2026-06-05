@@ -36,9 +36,9 @@ function Footer() {
         <div className="footer-col">
           <h4 className="footer-col-title">Kontakt</h4>
           <div className="footer-contact">
-            <p>Musterstraße 12<br />80333 München<br />Deutschland</p>
+            <p>Dipl. Ing. Tobias Hauer<br />Architekt bayrische Architektenkammer<br />83352 Altenmarkt</p>
             <a href="mailto:info@derarchistent.de">info@derarchistent.de</a>
-            <a href="tel:+4989123456789">+49 89 123 456 789</a>
+            <a href="tel:+436763156909">+43 676 315 6909</a>
           </div>
         </div>
 
