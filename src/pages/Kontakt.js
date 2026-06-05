@@ -114,7 +114,7 @@ function Kontakt() {
 
             <div className="kontakt-info-block">
               <span className="kontakt-info-label">Adresse</span>
-              <p>Tobias Hauer<br />83352 Altenmarkt</p>
+              <p>Dipl. Ing. Tobias Hauer<br />Architekt bayrische Architektenkammer<br />83352 Altenmarkt</p>
             </div>
 
             <div className="kontakt-info-block">
