@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Navbar from "./Navbar";
 
 function Header() {
@@ -6,9 +7,9 @@ function Header() {
 
       <div className="top-bar">
 
-        <div className="logo">
+        <Link to="/" className="logo">
           <img src="/logo.svg" alt="derArchistent" className="logo-img" />
-        </div>
+        </Link>
 
         <div className="right-section">
 
