@@ -168,7 +168,6 @@ body {
 .footer-logo {
   height: 38px;
   width: auto;
-  filter: invert(1);
   margin-bottom: 18px;
   display: block;
 }

@@ -8,7 +8,7 @@ function Footer() {
 
         {/* BRAND */}
         <div className="footer-brand">
-          <img src="/logo.svg" alt="derArchistent" className="footer-logo" />
+          <img src="/logo-footer.svg" alt="derArchistent" className="footer-logo" />
           <p className="footer-tagline">
             Die Plattform für Architektur, Regelwerke und Wettbewerbe im deutschsprachigen Raum.
           </p>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1829" height="354" viewBox="130 0 1829 354">
+  <defs>
+    <clipPath id="clip-footer">
+      <rect x="130" y="0" width="1829" height="354"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-footer)">
+    <text id="A" transform="translate(249.942 278)" fill="#ffffff" font-size="350" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="-119.875" y="0">A</tspan></text>
+    <path id="Polygon_4" d="M72.676,0l72.676,203.494H0Z" transform="translate(178.623 85.583)" fill="#1a1a1a"/>
+    <text id="derArchistent" transform="translate(942 233.5)" font-size="150" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-472.275" y="0" fill="#888888">der</tspan><tspan y="0" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700" fill="#ffffff">Archistent</tspan></text>
+    <line x1="0" y1="0" x2="245.485" y2="0" transform="translate(127.257 310.095)" fill="none" stroke="#ffffff" stroke-width="15"/>
+    <text id="beta" transform="translate(1548.5 295)" fill="#e85500" font-size="75" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="-79.162" y="0">beta</tspan></text>
+  </g>
+</svg>
