@@ -35,7 +35,7 @@ function Home() {
 
         {/* ── HERO ── */}
         <section className="home-hero">
-          <div className="home-hero__bg" />
+          <div className="home-hero__bg" style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/hero.jpg)` }} />
           <div className="home-hero__overlay" />
           <div className="home-hero__inner">
             <p className="home-hero__eyebrow">Für Architekten &amp; Planer</p>
