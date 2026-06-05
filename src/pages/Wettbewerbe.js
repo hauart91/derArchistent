@@ -160,7 +160,7 @@ const COMPETITIONS = [
   },
   {
     id: 13,
-    title: "wa award 2026 – „Konstruktive Räume"",
+    title: "wa award 2026 – Konstruktive Räume",
     veranstalter: "wettbewerbe aktuell",
     deadline: "2026-10-31",
     land: "DE",
