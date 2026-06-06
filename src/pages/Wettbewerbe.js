@@ -387,7 +387,7 @@ function Wettbewerbe() {
       return 0;
     });
     return list;
-  }, [search, filterLand, filterTyp, filterStatus, sortBy]);
+  }, [search, filterLand, filterTyp, filterGebaeude, filterStatus, sortBy]);
 
   const offen = COMPETITIONS.filter(c => daysLeft(c.deadline) >= 0).length;
 
